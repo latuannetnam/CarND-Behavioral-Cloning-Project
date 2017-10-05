@@ -1,0 +1,4 @@
+1. Round=2, samples=15484, params=940,139, train time = 27011s + 26851s
+1. Ndidia 1060 6G, Round=2, samples=15484, params=940,139, train time = 2955s + 2892s 
+  
+  
